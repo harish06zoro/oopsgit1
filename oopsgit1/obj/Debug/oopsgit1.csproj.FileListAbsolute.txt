@@ -1,0 +1,6 @@
+c:\users\sathis\documents\visual studio 2012\Projects\oopsgit1\oopsgit1\bin\Debug\oopsgit1.exe.config
+C:\Users\sathis\Documents\Visual Studio 2012\Projects\oopsgit1\oopsgit1\bin\Debug\oopsgit1.exe
+C:\Users\sathis\Documents\Visual Studio 2012\Projects\oopsgit1\oopsgit1\bin\Debug\oopsgit1.pdb
+C:\Users\sathis\Documents\Visual Studio 2012\Projects\oopsgit1\oopsgit1\obj\Debug\oopsgit1.csprojResolveAssemblyReference.cache
+C:\Users\sathis\Documents\Visual Studio 2012\Projects\oopsgit1\oopsgit1\obj\Debug\oopsgit1.exe
+C:\Users\sathis\Documents\Visual Studio 2012\Projects\oopsgit1\oopsgit1\obj\Debug\oopsgit1.pdb
